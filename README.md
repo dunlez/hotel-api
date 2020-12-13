@@ -1,1 +1,1 @@
-# hotel-api
+# cajero-api
